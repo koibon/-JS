@@ -2,7 +2,7 @@
 Twitterのブロック解除をブラウザ上で勝手に進めてくれるアイテム
 
 手順
-  1， https://twitter.com/settings/blocked/all 開く
+  1， https://twitter.com/settings/blocked/all を開く
   2， F12開発者ツールのConsoleから実行
   Chromeで動作確認(2021-09-04)
 
